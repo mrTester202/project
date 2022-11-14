@@ -324,3 +324,6 @@ class ClassName {
     // ...
 };
 ```
+
+Полезная ссылочка:
+https://ru.wikipedia.org/wiki/%D0%9F%D1%80%D0%B0%D0%B2%D0%B8%D0%BB%D0%BE_%D1%82%D1%80%D1%91%D1%85_(C%2B%2B)#%D0%9F%D1%80%D0%B0%D0%B2%D0%B8%D0%BB%D0%BE_%D0%BF%D1%8F%D1%82%D0%B8
