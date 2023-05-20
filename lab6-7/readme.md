@@ -12,4 +12,14 @@
 	( подсказка Figure.cpp - Figure.h 
 				Cube.cpp - Cube.h
 				.... )
+				
+```C++
+class Figure{
+...
+};
+class Figure : public Cube{
+...
+};
+...
+```
 		
